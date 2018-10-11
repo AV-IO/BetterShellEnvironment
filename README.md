@@ -32,8 +32,6 @@ Better tool | what it replaces
 
 [grv](https://github.com/rgburke/grv) - terminal interface for viewing git repositories
 
-[cgasm](https://github.com/bnagy/cgasm) - x86 documentation
-
 [lnav](https://github.com/tstack/lnav) - log file navigator
 
 

@@ -7,7 +7,7 @@ Better tool | what it replaces
 [fd](https://github.com/sharkdp/fd) | find
 [ag](https://github.com/ggreer/the_silver_searcher) | grep
 [gotop](https://github.com/cjbassi/gotop) | (h)top
-[nvim](https://neovim.io/) | vim
+[nvim](https://github.com/neovim/neovim/) | vim
 [mawk](https://invisible-island.net/mawk) | awk
 [mtr](https://github.com/traviscross/mtr) | traceroute
 [aria2](https://github.com/aria2/aria2) | wget

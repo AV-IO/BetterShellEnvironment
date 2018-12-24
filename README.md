@@ -24,7 +24,7 @@ Better tool | what it replaces
 
 [shellz](https://github.com/evilsocket/shellz) - manage creds for servers and execute commands on many devices at the same time
 
-[tldr](https://github.com/tldr-pages/tldr) - quick, usable summaries for commands
+[tldr++](https://github.com/isacikgoz/tldr) - quick, usable summaries for commands
 
 [autojump](https://github.com/wting/autojump) - quick directory traversal for directories you visit often
 
